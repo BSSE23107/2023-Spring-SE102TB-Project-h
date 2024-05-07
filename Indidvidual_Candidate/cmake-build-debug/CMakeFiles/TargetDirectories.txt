@@ -1,0 +1,3 @@
+C:/Users/Home/OneDrive/Desktop/study.mat/Indidvidual_Candidate/cmake-build-debug/CMakeFiles/Indidvidual_Candidate.dir
+C:/Users/Home/OneDrive/Desktop/study.mat/Indidvidual_Candidate/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Home/OneDrive/Desktop/study.mat/Indidvidual_Candidate/cmake-build-debug/CMakeFiles/rebuild_cache.dir

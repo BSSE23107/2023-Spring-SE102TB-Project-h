@@ -1,0 +1,42 @@
+{
+    "Candidates": [
+      {
+        "PP-32": [
+          {
+            "NAME": "James",
+            "PARTY": "PPP",
+            "Gender": "M",
+            "Sector": "PP-19",
+            "VoteCount": "0",
+            "SIGN": "T"
+            
+          }
+        ]
+      },
+      {
+        "PP-32": [
+          {
+            "NAME": "Emily",
+            "PARTY": "PPP",
+            "Gender": "F",
+            "Sector": "PP-32",
+            "VoteCount": "0",
+            "SIGN": "G"
+          }
+        ]
+      },
+      {
+        "PP-32": [
+          {
+            "NAME": "William",
+            "PARTY": "PTI",
+            "Gender": "M",
+            "Sector": "PP-32",
+            "VoteCount": "0",
+            "SIGN": "K"
+          }
+        ]
+    }
+
+    ]
+}
