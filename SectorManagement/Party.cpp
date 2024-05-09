@@ -72,6 +72,7 @@ void Party::setPassword(std::string &pass) {
 // Method to add a candidate to the party
 void Party::addCandidates(Candidate *candidate) {
     partyCandidates.push_back(candidate);
+//    Candidate* candidate = new PartyCandidate;
 }
 
 // Getter method to retrieve party's symbol

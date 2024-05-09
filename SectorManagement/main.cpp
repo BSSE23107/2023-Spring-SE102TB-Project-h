@@ -1,6 +1,18 @@
 #include <iostream>
 #include "registrationRunner.h"
 #include "sectorModuleRunner.h"
+#include "Candidate.h"
+#include "PartyRegistration.h"
+#include "PartyCandidate.h"
+#include "Province.h"
+#include "Provinces.h"
+#include "addSectors.h"
+#include "addCities.h"
+#include "Voter.h"
+#include "Candidate.h"
+#include "Person.h"
+#include "District.h"
+#include "Sector.h"
 using namespace std;
 
 int main(){

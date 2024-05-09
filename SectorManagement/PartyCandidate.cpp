@@ -33,8 +33,6 @@ void PartyCandidate::setCandidateParty(std::string canParty) {
 // Method to nominate a sector (override from base class)
 void PartyCandidate::nominateOnSector(const string &secName) {
     // Implementation to nominate a sector can be added here
-    PartyRegistration *partyRegistration = PartyRegistration::getInstance();
-    partyRegistration->nominatedCandidate(this,secName);
     nominatedSectors.push_back(secName);
 }
 

@@ -11,6 +11,7 @@ void addCandidates(string partyName, string partyRegID, string partySymbol) {
         cout << "              Welcome to Home Screen           " << endl;
         cout << "_______________________________________________" << endl;
         cout << "1-> Add Candidates." << endl;
+
         cout << "2-> Nominate Candidates." << endl;
         cout << "3-> Exit." << endl;
         cout << "Enter your choice: ";
@@ -98,8 +99,7 @@ void addCandidates(string partyName, string partyRegID, string partySymbol) {
 
                 Address address1;
                 address1.setConcatenatedAddress(address);
-
-
+                
                 auto *Candidate = new PartyCandidate(name, CNIC, gender, dateOfBirth, partyName, partySymbol, address1);
 
                 partyRegistration->nominatedCandidate(Candidate, sectorCode);

@@ -8,8 +8,7 @@
 using namespace std;
 
 #include "Voter.h" // Assuming Voter class is defined and included
-
-using namespace std; // Using std namespace for convenience
+ // Using std namespace for convenience
 
 class Candidate : public Voter {
 private:

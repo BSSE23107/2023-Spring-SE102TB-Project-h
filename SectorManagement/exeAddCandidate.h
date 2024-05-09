@@ -13,5 +13,4 @@ using namespace std;
 
 void addCandidates(string partyName,string partyRegID,string partySymbol);
 
-
 #endif //PARTYREGISTRATION_EXEADDCANDIDATE_H

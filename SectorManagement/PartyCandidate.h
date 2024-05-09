@@ -2,7 +2,6 @@
 #define PARTYREGISTRATION_PARTYCANDIDATE_H
 #include <iostream>
 #include "Candidate.h"
-#include "PartyRegistration.h"
 using namespace std;
 
 class PartyCandidate : public Candidate {
