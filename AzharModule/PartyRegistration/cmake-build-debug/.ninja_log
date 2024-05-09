@@ -1,0 +1,8 @@
+# ninja log v5
+161	1755	1715226848807911400	CMakeFiles/PartyRegistration_by_azhar.dir/Person.cpp.o	fe215e58690aeb71
+121	2399	1715226849427958100	CMakeFiles/PartyRegistration_by_azhar.dir/Party.cpp.o	df20815b1605656e
+1761	3404	1715226850439464500	CMakeFiles/PartyRegistration_by_azhar.dir/Address.cpp.o	7089b650fc159888
+2401	4071	1715226851120102800	CMakeFiles/PartyRegistration_by_azhar.dir/Candidate.cpp.o	e7456337478ada84
+3405	4685	1715226851739594900	CMakeFiles/PartyRegistration_by_azhar.dir/PartyCandidate.cpp.o	5e55b2b87719aadf
+32	15743	1715226862763308400	CMakeFiles/PartyRegistration_by_azhar.dir/main.cpp.o	1f091c5b52a77a6
+4072	18813	1715226865862012700	CMakeFiles/PartyRegistration_by_azhar.dir/PartyRegistration.cpp.o	f14988f7563be7d
