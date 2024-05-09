@@ -3,6 +3,7 @@
 int FederalSector::ID= 0;
 
 FederalSector::FederalSector(std::string &districtName) {
+    provisionalSector = new ProvisionalSector[2];
     string filename = districtName + "_federal_sectors.txt";
     ifstream federalSectorData(filename);
     string federalSectors;
@@ -37,4 +38,8 @@ void FederalSector::removeCandidate(const std::string &name) {
 void FederalSector::addProvisionalSector(ProvisionalSector provisionalSector1) {
     provisionalSector[provisionalSectorCount] = provisionalSector1;
     provisionalSectorCount++;
+}
+
+FederalSector::~FederalSector() {
+    delete[] provisionalSector;
 }

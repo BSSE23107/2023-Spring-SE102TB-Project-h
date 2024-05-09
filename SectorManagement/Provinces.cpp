@@ -1,7 +1,6 @@
 #include "Provinces.h"
 
 Provinces *Provinces::instance = nullptr; // Initialize the static member instance to nullptr
-int Provinces::candidatesMade = 0; // Initialize the static member candidatesMade to 0
 
 Provinces::Provinces() = default; // Default constructor for the Provinces class
 
@@ -79,13 +78,6 @@ void Provinces::addDistricts(District *district,const string& provinceName) {
     districtSectors.close();
 
     // If no candidates are made yet, create a JSON file for sectors
-    if(candidatesMade == 0) {
-        json sectors;
-        ofstream addSectorsToSectorsJson("candidates.json");
-        addSectorsToSectorsJson << sectors.dump(4) << endl;
-        addSectorsToSectorsJson.close();
-        candidatesMade++;
-    }
 
     // Add the sector to the JSON file
     addSector(district->getDistrictName(),provinceName);
