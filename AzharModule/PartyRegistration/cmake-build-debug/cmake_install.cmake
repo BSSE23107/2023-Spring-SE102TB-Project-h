@@ -1,4 +1,4 @@
-# Install script for directory: /cygdrive/c/Users/azhar/Desktop/Party-Registration-Latest/PartyRegistration_by_azhar
+# Install script for directory: /cygdrive/c/Users/azhar/Desktop/2023-Spring-SE102TB-Project-h/AzharModule/PartyRegistration
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/cygdrive/c/Users/azhar/Desktop/Party-Registration-Latest/PartyRegistration_by_azhar/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/cygdrive/c/Users/azhar/Desktop/2023-Spring-SE102TB-Project-h/AzharModule/PartyRegistration/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

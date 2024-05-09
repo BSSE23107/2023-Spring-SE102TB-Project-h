@@ -1,10 +1,22 @@
-C:\Users\azhar\AppData\Local\JetBrains\CLion2023.2\cygwin_cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=/cygdrive/c/Program Files/JetBrains/CLion 2023.2.2/bin/ninja/cygwin/x64/ninja.exe" -G Ninja -S /cygdrive/c/Users/azhar/Desktop/Party-Registration-Latest/PartyRegistration_by_azhar -B /cygdrive/c/Users/azhar/Desktop/Party-Registration-Latest/PartyRegistration_by_azhar/cmake-build-debug
+C:\Users\azhar\AppData\Local\JetBrains\CLion2023.2\cygwin_cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=/cygdrive/c/Program Files/JetBrains/CLion 2023.2.2/bin/ninja/cygwin/x64/ninja.exe" -G Ninja -S /cygdrive/c/Users/azhar/Desktop/2023-Spring-SE102TB-Project-h/AzharModule/PartyRegistration -B /cygdrive/c/Users/azhar/Desktop/2023-Spring-SE102TB-Project-h/AzharModule/PartyRegistration/cmake-build-debug
 CMake Warning (dev) at CMakeLists.txt:1 (project):
   cmake_minimum_required() should be called prior to this top-level project()
   call.  Please see the cmake-commands(7) manual for usage documentation of
   both commands.
 This warning is for project developers.  Use -Wno-dev to suppress it.
 
--- Configuring done (0.1s)
--- Generating done (0.1s)
--- Build files have been written to: /cygdrive/c/Users/azhar/Desktop/Party-Registration-Latest/PartyRegistration_by_azhar/cmake-build-debug
+-- The C compiler identification is GNU 11.4.0
+-- The CXX compiler identification is GNU 11.4.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++.exe - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Configuring done (34.5s)
+-- Generating done (0.2s)
+-- Build files have been written to: /cygdrive/c/Users/azhar/Desktop/2023-Spring-SE102TB-Project-h/AzharModule/PartyRegistration/cmake-build-debug

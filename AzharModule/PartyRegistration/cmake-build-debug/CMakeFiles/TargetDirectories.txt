@@ -1,3 +1,3 @@
-/cygdrive/c/Users/azhar/Desktop/Party-Registration-Latest/PartyRegistration_by_azhar/cmake-build-debug/CMakeFiles/PartyRegistration_by_azhar.dir
-/cygdrive/c/Users/azhar/Desktop/Party-Registration-Latest/PartyRegistration_by_azhar/cmake-build-debug/CMakeFiles/edit_cache.dir
-/cygdrive/c/Users/azhar/Desktop/Party-Registration-Latest/PartyRegistration_by_azhar/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/azhar/Desktop/2023-Spring-SE102TB-Project-h/AzharModule/PartyRegistration/cmake-build-debug/CMakeFiles/PartyRegistration_by_azhar.dir
+/cygdrive/c/Users/azhar/Desktop/2023-Spring-SE102TB-Project-h/AzharModule/PartyRegistration/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/c/Users/azhar/Desktop/2023-Spring-SE102TB-Project-h/AzharModule/PartyRegistration/cmake-build-debug/CMakeFiles/rebuild_cache.dir
