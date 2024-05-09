@@ -12,7 +12,6 @@ using namespace std;
 
 class Provinces {
 private:
-    static int candidatesMade; // Static member to track the number of candidates made
     static Provinces* instance; // Singleton instance of Provinces
     vector<Province*> provinces; // Vector to store provinces
     vector<Sector*> totalSectors; // Vector to store all sectors

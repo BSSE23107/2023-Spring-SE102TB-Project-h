@@ -11,13 +11,14 @@ class FederalSector : public Sector{
 private:
     static int ID;
     vector<Candidate*> federalSectorCandidates;
-    ProvisionalSector provisionalSector[2];
+    ProvisionalSector *provisionalSector;
     int provisionalSectorCount;
 public:
     explicit FederalSector(string &districtName);
     void nominateCandidate(Candidate* candidate) override;
     void removeCandidate(const string& name);
     void addProvisionalSector(ProvisionalSector provisionalSector1);
+    ~FederalSector();
 
 };
 

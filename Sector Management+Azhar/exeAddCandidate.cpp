@@ -99,7 +99,7 @@ void addCandidates(string partyName, string partyRegID, string partySymbol) {
 
                 Address address1;
                 address1.setConcatenatedAddress(address);
-                
+
                 auto *Candidate = new PartyCandidate(name, CNIC, gender, dateOfBirth, partyName, partySymbol, address1);
 
                 partyRegistration->nominatedCandidate(Candidate, sectorCode);
